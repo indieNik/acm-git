@@ -1,2 +1,2 @@
-# acmbgm.github.io
-Website of the KLSGIT-ACM student Chapter
+# ACM-GIT
+ACM Local Student Chapter
